@@ -1,0 +1,6 @@
+{
+  "name": "Stream 169",
+  "description": "Professional mobile screen streaming app for YouTube Live and RTMP with Face Cam and audio mixing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
